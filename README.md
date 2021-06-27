@@ -10,3 +10,9 @@ downloads, streaming services, concert tickets, merchandise, and other sources g
 intermediate players. Also, revenues are divided in ways that lack transparency and leave little for the 
 recording artists. We thus see that the current royalty distribution system is outdated, unreliable and does 
 not prioritize the artist.
+
+Therefore, a decentralized music sharing platform that is free from intermediaries and middlemen, fair and 
+easy to use, a system that gives a greater choice to listeners and fair market value compensation to the 
+artists and creators is the solution. This will not only empower and encourage small artists but also 
+create a new paradigm shift in the way people listen to and pay for music and this can be achieved by the 
+creation of blockchain-powered music streaming platforms.
